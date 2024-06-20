@@ -205,7 +205,7 @@ var APP_DATA = {
         {
           "yaw": -0.2583440428033832,
           "pitch": -0.3743525581745626,
-          "title": "Title",
+          "title": "Disco Duro HDD",
           "text": "Un <strong>disco duro HDD (Hard Disk Drive)</strong> es un dispositivo de almacenamiento de datos que se encuentra en la mayoría de las ordenadores. Funciona utilizando discos metálicos que giran rápidamente, y un pequeño brazo mecánico que lee y escribe información en estos discos. Piensa en él como un tocadiscos donde los discos son las partes que almacenan la música, pero en este caso, almacenan datos de la computadora, como archivos, fotos, videos y programas. Los HDDs son conocidos por su capacidad de almacenar una gran cantidad de información a un costo razonable, aunque son más lentos y tienen partes móviles que pueden desgastarse con el tiempo."
         }
       ]
